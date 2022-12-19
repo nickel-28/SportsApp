@@ -10,6 +10,6 @@ I have made this project using **Kotlin** and **XML**
 **End Results:** <br>
 *Images:*
 
-![Screenshot 1](VN20221029_080642.mp4)
+![Output](Result.mp4)
 
 
