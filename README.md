@@ -7,8 +7,7 @@ SportsApp is an android app which asks a User about gender, expertise in the gam
 
 I have made this project using **Kotlin** and **XML**
 
-**End Results:** <br>
-*Images:*
+**End Results:** 
 
 ![Output](Result.mp4)
 
